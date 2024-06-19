@@ -1,0 +1,1 @@
+![Circuit design, I2C Communication](docs/img/design.png)
