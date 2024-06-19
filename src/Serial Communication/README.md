@@ -1,0 +1,1 @@
+![Circuit design, serial communication](docs/img/design.png)
